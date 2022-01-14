@@ -1,6 +1,7 @@
 ---
 title: Contributing Guidelines
 permalink: /wiki/contributing-guidelines
+layout: wiki
 ---
 
 # Contributing Guidelines

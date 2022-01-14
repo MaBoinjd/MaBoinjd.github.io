@@ -1,6 +1,7 @@
 ---
 title: Work Policy
 permalink: /wiki/work-policy
+layout: wiki
 ---
 
 # Work Policy

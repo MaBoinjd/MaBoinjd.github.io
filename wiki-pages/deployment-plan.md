@@ -1,6 +1,7 @@
 ---
 title: Deployment Plan
 permalink: /wiki/deployment-plan
+layout: wiki
 ---
 
 # Deployment Plan

@@ -1,6 +1,7 @@
 ---
 title: Create Task Plans
 permalink: /wiki/create-task-plans
+layout: wiki
 ---
 
 ## Deadlines

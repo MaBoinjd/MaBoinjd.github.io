@@ -1,6 +1,7 @@
 ---
 title: Release Date Policies
 permalink: /wiki/release-date-policies
+layout: wiki
 ---
 
 ## Policy
