@@ -1,0 +1,43 @@
+.navbar {
+  width: 100%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  background-color: #159957;
+  color: white;
+}
+
+.navbar ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.navbar ul li {
+  list-style: none;
+}
+
+.navbar ul li::before {
+  content: '';
+  background: white;
+  width: 20vw;
+  height: 10px;
+}
+
+.navbar ul li::after {
+  content: '';
+  background: white;
+  width: 20vw;
+  height: 10px;
+}
+
+body {
+  background-color: white;
+  color: #606c71;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+/*# sourceMappingURL=wiki.css.map */

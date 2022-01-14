@@ -1,0 +1,41 @@
+$nav-bg-color: #159957;
+$nav-text-color: white;
+$content-bg-color: white;
+$content-text-color: #606c71;
+
+.navbar {
+    width: 100%;
+    height: fit-content;
+    background-color: #{$nav-bg-color};
+    color: #{$nav-text-color};
+    
+    ul {
+        display: flex;
+        justify-content: center;
+    
+        li {
+            list-style: none
+        }
+
+        li::before {
+            content: '';
+            background: #{$nav-text-color};
+            width: 20vw;
+            height: 10px;
+        }
+        li::after {
+            content: '';
+            background: #{$nav-text-color};
+            width: 20vw;
+            height: 10px;
+        }
+    }
+
+}
+
+body {
+    background-color: #{$content-bg-color};
+    color: #{$content-text-color};
+    margin-left: 20%;
+    margin-right: 20%;
+}
