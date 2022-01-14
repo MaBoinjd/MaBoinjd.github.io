@@ -20,6 +20,12 @@
   list-style: none;
 }
 
+.navbar ul li a,
+.navbar ul li a:hover,
+.navbar ul li a:active {
+  color: white;
+}
+
 .navbar ul li::before {
   content: '';
   background: white;

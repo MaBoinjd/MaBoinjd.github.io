@@ -2,7 +2,7 @@ $nav-bg-color: #159957;
 $nav-text-color: white;
 $content-bg-color: white;
 $content-text-color: #606c71;
-
+//test
 .navbar {
     width: 100%;
     height: fit-content;
@@ -14,7 +14,14 @@ $content-text-color: #606c71;
         justify-content: center;
     
         li {
-            list-style: none
+            list-style: none;
+
+            a,
+            a:hover,
+            a:active {
+                color: #{$nav-text-color};
+            }
+
         }
 
         li::before {
