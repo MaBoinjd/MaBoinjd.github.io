@@ -9,5 +9,5 @@ Welcome to the Anthony's Harem wiki! Here, you will find a variety of pages that
 - [Work Policy](https://github.com/tonyhieu/csp-anthonys-harem/wiki/Work-Policy)
 - [Contributing Guidelines](https://github.com/tonyhieu/csp-anthonys-harem/wiki/Contributing-Guidlines)
 - [Deployment Plan](https://github.com/tonyhieu/csp-anthonys-harem/wiki/Deployment-Plan)
+- [Release Date Policies](https://github.com/tonyhieu/csp-anthonys-harem/wiki/Release-Date-Policies)
 - [Create Task](https://github.com/tonyhieu/csp-anthonys-harem/wiki/Create-Task-Plans)
-- [Release Day Policies](https://github.com/tonyhieu/csp-anthonys-harem/wiki/Release-Date-Policies)
