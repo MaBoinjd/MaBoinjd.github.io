@@ -2,6 +2,8 @@
 
 Hello! We are the Anthony's Harem scrum team. We want to create a space for aspiring game developers to show off their skill or learn new ones. Our website will support "Game Jam" activities which will allow Del Norte (and other high school) students to immerse themselves in the world of game development.
 
+[Link to wiki pages](https://maboinjd.github.io/wiki/home)
+
 ## Table of Contents
 - [Contributers](https://github.com/tonyhieu/csp-anthonys-harem/blob/main/README.md#contributers)
 - [Time Box](https://github.com/tonyhieu/csp-anthonys-harem/blob/main/README.md#time-box)
