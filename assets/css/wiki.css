@@ -1,4 +1,4 @@
-.navbar {
+nav {
   width: 100%;
   height: -webkit-fit-content;
   height: -moz-fit-content;
@@ -7,7 +7,7 @@
   color: white;
 }
 
-.navbar ul {
+nav ul {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -16,24 +16,24 @@
           justify-content: center;
 }
 
-.navbar ul li {
+nav ul li {
   list-style: none;
 }
 
-.navbar ul li a,
-.navbar ul li a:hover,
-.navbar ul li a:active {
+nav ul li a,
+nav ul li a:hover,
+nav ul li a:active {
   color: white;
 }
 
-.navbar ul li::before {
+nav ul li::before {
   content: '';
   background: white;
   width: 20vw;
   height: 10px;
 }
 
-.navbar ul li::after {
+nav ul li::after {
   content: '';
   background: white;
   width: 20vw;
