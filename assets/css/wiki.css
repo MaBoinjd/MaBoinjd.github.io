@@ -14,15 +14,13 @@ nav ul {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-}
-
-nav ul li {
-  list-style: none;
+  list-style-type: none;
 }
 
 nav ul li a,
 nav ul li a:hover,
-nav ul li a:active {
+nav ul li a:active,
+nav ul li a:visited {
   color: white;
 }
 
