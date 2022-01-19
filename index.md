@@ -1,6 +1,7 @@
 ---
 title: Home
 permalink: /
+layout: default
 ---
 
 # Period 3 Anthony's Harem
