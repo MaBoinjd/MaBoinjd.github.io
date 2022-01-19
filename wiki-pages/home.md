@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Wiki Home
 permalink: /wiki/home
 layout: wiki
 ---
