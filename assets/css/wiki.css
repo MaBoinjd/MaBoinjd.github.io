@@ -7,18 +7,14 @@ nav {
   color: white;
 }
 
-nav ul {
+nav ul li {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  list-style-type: none;
-}
-
-nav ul li {
-  display: block;
+  font-size: 3vh;
 }
 
 nav ul li a,
@@ -30,16 +26,22 @@ nav ul li a:visited {
 
 nav ul li::before {
   content: '';
+  display: block;
   background: white;
   width: 20vw;
-  height: 10px;
+  height: 1px;
+  -webkit-transform: translateY(1.5vh);
+          transform: translateY(1.5vh);
 }
 
 nav ul li::after {
   content: '';
+  display: block;
   background: white;
   width: 20vw;
-  height: 10px;
+  height: 1px;
+  -webkit-transform: translateY(1.5vh);
+          transform: translateY(1.5vh);
 }
 
 body {

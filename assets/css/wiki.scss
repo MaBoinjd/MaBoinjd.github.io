@@ -10,13 +10,15 @@ nav {
     color: #{$nav-text-color};
     
     ul {
-        display: flex;
-        justify-content: center;
-        list-style-type: none;
+        // display: flex;
+        // justify-content: center;
+        //list-style-type: none;
 
     
         li {
-            display: block;
+            display: flex;
+            justify-content: center;
+            font-size: 3vh;
 
             a,
             a:hover,
@@ -29,15 +31,19 @@ nav {
 
         li::before {
             content: '';
+            display: block;
             background: #{$nav-text-color};
             width: 20vw;
-            height: 10px;
+            height: 1px;
+            transform: translateY(1.5vh);
         }
         li::after {
             content: '';
+            display: block;
             background: #{$nav-text-color};
             width: 20vw;
-            height: 10px;
+            height: 1px;
+            transform: translateY(1.5vh);
         }
     }
 
