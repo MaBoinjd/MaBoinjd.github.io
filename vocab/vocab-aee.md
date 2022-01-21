@@ -61,6 +61,43 @@ layout: default
 
 **Search-Linear/Binary** - A linear search searches through a list to find a single part of that list. A binary search searches through a list to match your searched component by repeatedly halving the list until the location is narrowed down.
 
+```
+# Basic linear search
+
+def linear_search(list, target):
+    for num in list:
+        if num == target:
+            return True
+    return False
+
+# Basic binary search
+
+def binary_search(arr, low, high, x):
+ 
+    # Check base case
+    if high >= low:
+ 
+        mid = (high + low) // 2
+ 
+        # If element is present at the middle itself
+        if arr[mid] == x:
+            return mid
+ 
+        # If element is smaller than mid, then it can only
+        # be present in left subarray
+        elif arr[mid] > x:
+            return binary_search(arr, low, mid - 1, x)
+ 
+        # Else the element can only be present in right subarray
+        else:
+            return binary_search(arr, mid + 1, high, x)
+ 
+    else:
+        # Element is not present in the array
+        return -1
+```
+
+
 **Blueprints** - A set of files in a Flask application that contains a mini Flask app within it. A blueprint typically consists of a folder with its own template and app.py files, and it can be "registered" in the main Flask file in order to add it to the website. Blueprints are used for organization of pages. [Link to app.py blueprint file](https://github.com/tonyhieu/csp-anthonys-harem/blob/main/anthony/anthony.py)
 
 **Metadata** - Metadata provides more information about other data to make the process easier as a whole. Includes information about files like author, file type, date of creation, etc.
