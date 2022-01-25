@@ -14,6 +14,7 @@ layout: default
 - Bit: one binary digit, 0 or 1/on or off
 - Byte: 8 bits, basic unit of data
 - Nibble: half of one byte; 4 bits 
+![Binary and Hexadecimal](https://i.pinimg.com/originals/fa/3f/8b/fa3f8b032f1df211cfa5a226b973f0e8.jpg)
 
 **Lossless vs. lossy compression** - Lossless compression reduces all loss of data and is best used when you want to preserve the original data. Lossy compression loses some data but is much faster and uses less bandwidth than lossless; it is best used when you want speedy data transfer and when the data can lose some of its original makeup.
 
