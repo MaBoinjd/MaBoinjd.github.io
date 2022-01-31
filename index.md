@@ -7,6 +7,8 @@ layout: default
 
 [Link to wiki pages](/wiki/home)
 <br />
+[Link to review tickets](/review-tickets)
+<br />
 [Link to vocabulary definitions](/vocab)
 
 # Period 3 Anthony's Harem
@@ -30,6 +32,9 @@ Hello! We are the Anthony's Harem scrum team. We want to create a space for aspi
 | Samuel Wang | Technical Officer | [@Samuelwaang](https://github.com/Samuelwaang) | [Issues](https://github.com/tonyhieu/csp-anthonys-harem/issues?q=assignee%3ASamuelwaang) | [Scrum Board](https://github.com/tonyhieu/csp-anthonys-harem/projects/1?card_filter_query=assignee%3ASamuelwaang) | [Commits](https://github.com/tonyhieu/csp-anthonys-harem/commits?author=Samuelwaang) |
 
 ## Time Box
+
+### Week 7, January 28
+#### Week 7 Review Ticket on [GitHub](https://github.com/tonyhieu/csp-anthonys-harem/issues/24) and [Jekyll](https://maboinjd.github.io/wiki/week-seven)
 
 ### Week 3, December 17
 

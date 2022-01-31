@@ -1,9 +1,11 @@
 ---
 title: Week 7 Review Ticket
-permalink: /wiki/week-seven
+permalink: /review-tickets/week-seven
 layout: default
 ---
 
+[Back to list of all review tickets](/review-tickets)
+<br />
 [Link to GitHub Review Ticket](https://github.com/tonyhieu/csp-anthonys-harem/issues/24)
 
 ## Evaluation of Crossover Team PBL key features
