@@ -23,7 +23,8 @@ layout: default
 - Navbar incorporates bootstrap, and much of the page is formatted using bootstrap grid
 
 ## Evaluation of Async Operation - runtime and under the hood usage of JavaScript and Fetch, as well as how things are updated on screen
-- N/A
+- Use of [JQuery .load() function](https://github.com/tonyhieu/csp-anthonys-harem/blob/bbdbdb60363be1e2a1c9cf8142d234faf65a4490/templates/game.html#L18-L21) to asynchronously load html files for games
+- Seen in implementation of [Mr. M's Snake Game](https://www.anthonysharem.cf/game/2), [Nathaniel Cherian's Game of Life](https://www.anthonysharem.cf/game/3), and [Pixel Art game with saves](https://www.anthonysharem.cf/game/4)
 
 ## Evaluation of CRUD in Database - runtime and behind the scenes using CRUD operations, as well as progress on database personalization
 - [Games database page](https://www.anthonysharem.cf/games_database) showcases all CRUD operations with personalization
