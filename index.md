@@ -10,6 +10,8 @@ layout: default
 [Link to review tickets](/review-tickets)
 <br />
 [Link to vocabulary definitions](/vocab)
+<br />
+[Link to create tasks](/create-task)
 
 # Period 3 Anthony's Harem
 
