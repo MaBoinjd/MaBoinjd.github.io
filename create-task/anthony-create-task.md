@@ -10,7 +10,7 @@ layout: default
 
 ## Video
 
-Add video later
+[Link to video](https://drive.google.com/file/d/1UFv2jMzpngi4QZ3bXwmZ6ert5TJ1hVvi/view?usp=sharing)
 
 ## Written Responses
 
